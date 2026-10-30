@@ -15,6 +15,13 @@ upstream:
   notes:
     type: github_release
     repo: laurent22/joplin
+  sponsor:
+  - name: Joplin
+    url: https://joplinapp.org/donate/
+  - name: Joplin (Patreon)
+    url: https://www.patreon.com/joplin
+  - name: Joplin (GitHub Sponsors)
+    url: https://github.com/sponsors/laurent22
 
 release:
   branch: master
