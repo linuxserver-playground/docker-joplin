@@ -1,0 +1,3 @@
+Joplin: https://joplinapp.org/donate/
+Joplin (Patreon): https://www.patreon.com/joplin
+Joplin (GitHub Sponsors): https://github.com/sponsors/laurent22
