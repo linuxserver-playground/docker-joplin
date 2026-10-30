@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: laurent22/joplin
+    require_assets:
+      - asset: '^Joplin\-.*\.deb$'
   notes:
     type: github_release
     repo: laurent22/joplin
